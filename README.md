@@ -1,5 +1,5 @@
 # WebHop
-A google chrome extension which helps you to hop around useful websites easily with self made logi(not published).
+A google chrome extension which helps you to hop around useful websites easily with self made logo (not published).
 
 
 
